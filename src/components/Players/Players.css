@@ -1,0 +1,13 @@
+.playerImg{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
+.player-page {
+   border-radius: 10px;
+    box-shadow:5px 5px 10px lightgray;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    
+}

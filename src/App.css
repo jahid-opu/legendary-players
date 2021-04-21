@@ -1,7 +1,14 @@
-.App {
-  text-align: center;
+.player{
+  display:grid;
+  grid-template-columns: repeat(3,1fr);
+  width: 70%;
+  float:left;
 }
-
+.budget-page {
+  float:left;
+  width:20%;
+  margin-left: 20px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

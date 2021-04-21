@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "name": "Aftab Ahmed",
+    "salary": 120000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWFEZZle5C57UeplF4RGgsua3HHOUJfII8MPiSjNxt6LVnQ5IuQxqrmk&s=10"
+  }, {
+    "id": 2,
+    "name": "Anamul Haque Bijoy",
+    "salary": 150000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3wUD24Xi8LstyyTa0cPbMChbTWscUj9pOg&usqp=CAU"
+  }, {
+    "id": 3,
+    "name": "Bilawal Bhatti",
+    "salary": 250000,
+    "img": "https://p.imgci.com/db/PICTURES/CMS/171800/171839.1.jpg"
+  }, {
+    "id": 4,
+    "name": "Ravi Bopara",
+    "salary": 150000,
+    "img": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20150301120957.jpeg"
+  }, {
+    "id": 5,
+    "name": "Elias Sunny",
+    "salary": 50000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEoxPRxHdTLHCqN5HdtscO7LadT1H5GEcbmw&usqp=CAU"
+  }, {
+    "id": 6,
+    "name": "Kamran Akmal",
+    "salary": 80000,
+    "img": "https://staticg.sportskeeda.com/editor/2018/02/d9bb4-1519295994-800.jpg"
+  }, {
+    "id": 7,
+    "name": "Tamim Iqbal",
+    "salary": 180000,
+    "img": "https://dailysportsupdates.com/wp-content/uploads/2019/04/Tamim-Iqbal.png"
+  }, {
+    "id": 8,
+    "name": "Taskin Ahmed",
+    "salary": 90000,
+    "img": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1839.png"
+  }, {
+    "id": 9,
+    "name": "Brendan Taylor",
+    "salary": 145000,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-462971468-e1523269579490.jpg"
+  }, {
+    "id": 10,
+    "name": "Mahmudullah",
+    "salary": 160000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmiBhDioyYbEzY3lqWe9lFtdSH04s7Jf6M6xJxwBXxDKHxfPJkptsoXPtmnVLI7nJ0Bo&usqp=CAU"
+  }, {
+    "id": 11,
+    "name": "Dwayne Bravo",
+    "salary": 90000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeQC9dTy7Feg1Ge12btc_sRLw-ZVkaAaK6g&usqp=CAU"
+  }, {
+    "id": 12,
+    "name": "Kevon Cooper",
+    "salary": 130000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyV1nI5h8Cv_xpBI3s9CrGs539bEpmR52fmA&usqp=CAU"
+  }, {
+    "id": 13,
+    "name": "Tillakaratne Dilshan",
+    "salary": 85000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dwRbaLX2g2ZHtjbztDsUxF8XggNfjzGEHA&usqp=CAU"
+  }, {
+    "id": 14,
+    "name": "David Miller",
+    "salary": 89978,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7n0ONSrY4j7ma8ALZ8HXTE9zCX5AQK9Vyhg&usqp=CAU"
+  }, {
+    "id": 15,
+    "name": "Rubel Hossain",
+    "salary": 111000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyntq5aXBiRTNiIhe700WIU-dhaf50QzkAw&usqp=CAU"
+  }]

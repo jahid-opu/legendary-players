@@ -1,23 +1,31 @@
 import logo from './logo.svg';
 import './App.css';
+import playersData from './fakeData/data.json';
+import { useEffect, useState } from 'react';
+import Players from './components/Players/Players';
+import Budget from './components/Budget/Budget';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
+  const [players,setPlayers] = useState(playersData);
+  const [budget,setBudget] =  useState([]);
+  const handleAddPlayer = (player)=>{
+    const newBudget = [...budget,player];
+    setBudget(newBudget);
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <div className="player">
+      {
+       
+        players.map(player => <Players player={player} handleAddPlayer={handleAddPlayer}></Players>)
+      }
+    </div>
+    <div className="budget-page">
+     <Budget budget={budget}></Budget>
+    </div>
     </div>
   );
 }
